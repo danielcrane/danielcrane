@@ -3,7 +3,7 @@
 - 🔭 <b>I’m currently working on</b>: Using Deep Learning/Computer Vision for Sports Analytics
 - 👯 <b>I’m looking to collaborate on</b>: Currently looking for an Open Source Python project to contribute to!
 - 💬 <b>Ask me about</b>: Python, Deep Learning, Computer Vision, life in Japan
-- 📫 <b>How to reach me</b>: <a href="https://www.twitter.com/fatchocobo">@FatChocobo</a>
+- 📫 <b>How to reach me</b>: <a href="https://www.twitter.com/fatchocobo">@FatChocobo</a> / <a href="https://www.linkedin.com/in/daniellewiscrane/">LinkedIn</a>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
